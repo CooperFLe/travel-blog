@@ -24,17 +24,17 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
+      title: "Cooper Abroad",
+      description: 'Photographs from my adventures around Europe.',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Spring 2019',
         route: 'page',
-        id: 'chris-manson'
+        id: 'spring-2019'
       }]
     }
   };
