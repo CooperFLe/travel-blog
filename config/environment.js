@@ -26,7 +26,7 @@ module.exports = function(environment) {
     blog: {
       title: "Cooper Abroad",
       description: 'Photographs from my adventures around Europe.',
-      coverImage: '/images/blog-cover.jpg',
+      coverImage: '/images/cover.jpg',
 
       navigation: [{
         label: 'Home',
