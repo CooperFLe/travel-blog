@@ -1,10 +1,10 @@
 ---
 name: Cooper F. Le
 id: cooperfle
-image:
+image: /images/cooperfle.jpg
 cover:
 website: https://cooperfle.com
 twitter:
-facebook:
-location:
+facebook: 
+location: Marburg, Germany
 ---
