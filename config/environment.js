@@ -5,7 +5,7 @@ module.exports = function(environment) {
     modulePrefix: 'empress-blog-casper',
     environment,
     rootURL: '/',
-    locationType: 'hash',
+    locationType: 'auto',
 
     EmberENV: {
       FEATURES: {
