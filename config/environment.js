@@ -32,9 +32,9 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Spring 2019',
+        label: 'Cooper F. Le',
         route: 'page',
-        id: 'spring-2019'
+        id: 'about'
       }]
     }
   };
