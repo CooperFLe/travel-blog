@@ -1,5 +1,5 @@
 ---
-title: About
+title: Cooper F. Le
 image: /images/about.jpg
 imageMeta:
   attribution:
